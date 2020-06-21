@@ -1,7 +1,7 @@
 # The Last Spaceship Standing
 * Shooter multijugador 2D en Android utilizando LIBGDX, Bluetooth y Firebase.
 
-![](https://github.com/dhrax/TFG/blob/master/android/assets/Logo/logo.png)
+![](https://github.com/valerycf27/TFG/blob/master/android/assets/Logo/logo.png)
 
 # Descripción
 * Este juego ha sido desarrollado utilizando el motor gráfico LIBGDX, la comunicación entre dispositivos se ha ralizado utilizando Bluetooth.<br>
