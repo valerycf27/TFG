@@ -1,0 +1,4 @@
+# Referenced at C:\Users\valer\Desktop\Repositorios TFG\TFG\android\build\intermediates\merged_manifests\debug\AndroidManifest.xml:24
+-keep class android.support.multidex.MultiDexApplication { <init>(); }
+# Referenced at C:\Users\valer\Desktop\Repositorios TFG\TFG\android\build\intermediates\merged_manifests\debug\AndroidManifest.xml:24
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
